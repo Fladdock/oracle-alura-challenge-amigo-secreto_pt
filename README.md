@@ -1,4 +1,4 @@
-# 🎁 Sorteador Amigo Secreto
+# 🎁 Challenge Amigo Secreto
 
 Aplicação simples desenvolvida durante o curso **Iniciante em Programação G8 - ONE** com o objetivo de exercitar lógica de programação utilizando JavaScript, HTML e CSS. 
 
